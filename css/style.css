@@ -66,3 +66,14 @@ a {
         transform: translateX(0);
     }
 }
+
+.wcd  {
+    background-image: url(../imgs/wcd.png);
+    background-size: cover;
+    background-position: center;
+    padding: 15%;
+}
+
+.tvd {
+    padding: 5%;
+}
